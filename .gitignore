@@ -1,0 +1,3 @@
+.bundle/
+sensu-plugins-process-count-metrics-*.gem
+vendor/
