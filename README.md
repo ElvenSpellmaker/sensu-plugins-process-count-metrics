@@ -1,7 +1,7 @@
  Sensu Plugins Process Count Metrics
 ====================================
 
-[![Build Status](https://travis-ci.org/ElvenSpellmaker/sensu-plugins-process-count-metrics.svg?branch=master)](https://travis-ci.org/ElvenSpellmaker/sensu-plugins-process-count-metrics) [![Gem Version](https://badge.fury.io/rb/sensu-plugins-process-count-metrics.svg)](https://badge.fury.io/rb/sensu-plugins-process-count-metrics)
+[![Build Status](https://travis-ci.com/ElvenSpellmaker/sensu-plugins-process-count-metrics.svg?branch=master)](https://travis-ci.com/ElvenSpellmaker/sensu-plugins-process-count-metrics) [![Gem Version](https://badge.fury.io/rb/sensu-plugins-process-count-metrics.svg)](https://badge.fury.io/rb/sensu-plugins-process-count-metrics)
 
 This is a Sensu Plug-in to interface with `pgrep` and count the number of
 processes with a given name as metrics.
