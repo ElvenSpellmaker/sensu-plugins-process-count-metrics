@@ -23,9 +23,9 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
-    sensu-plugin (1.4.5)
+    sensu-plugin (1.4.7)
       json (< 2.0.0)
-      mixlib-cli (>= 1.5.0)
+      mixlib-cli (~> 1.5)
 
 PLATFORMS
   ruby
